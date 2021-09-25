@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 ## Name of the feature
-<Feature name here>
+< Feature name here >
 
 ## About the feature
-<About feature here>
+< About feature here >
 
 ## Pull request
-<Add the pull request number/link if there, or remove this section>
+< Add the pull request number/link if there, or remove this section >
 
 ## Links provided
-<Add all the links you want for reference, or remove this section>
+< Add all the links you want for reference, or remove this section >
 
 ## Media
-<Add media files>
+< Add media files >
