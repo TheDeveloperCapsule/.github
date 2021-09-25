@@ -2,7 +2,7 @@
 name: Add me in this organization
 about: Use this template in the join repsoritory of this organiation.
 title: Add [Your_Name] in the organization
-labels: add-me-to-organization
+labels: add me to organization
 assignees: ''
 
 ---
